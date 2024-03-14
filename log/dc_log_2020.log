@@ -1,0 +1,68 @@
+2024-03-12 14:55:16,503 - ERROR - 处理 2020_000612_焦作万方时出错： invalid literal for int() with base 10: '代码'
+2024-03-12 14:55:35,295 - ERROR - 处理 2020_000828_东莞控股时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 14:55:53,487 - ERROR - 处理 2020_001979_招商蛇口时出错： invalid literal for int() with base 10: '述或'
+2024-03-12 14:55:54,127 - ERROR - 处理 2020_000999_华润三九时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 14:56:50,904 - ERROR - 处理 2020_002463_沪电股份时出错： invalid literal for int() with base 10: ' -'
+2024-03-12 14:57:50,056 - ERROR - 处理 2020_003027_同兴环保时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 14:58:01,371 - ERROR - 处理 2020_300127_银河磁体时出错： invalid literal for int() with base 10: '.8'
+2024-03-12 14:58:12,560 - ERROR - 处理 2020_300259_新天科技时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 14:58:42,410 - ERROR - 处理 2020_300623_捷捷微电时出错： invalid literal for int() with base 10: ' -'
+2024-03-12 14:59:56,189 - ERROR - 处理 2020_600336_澳柯玛时出错： invalid literal for int() with base 10: '.9'
+2024-03-12 15:00:21,334 - ERROR - 处理 2020_600600_青岛啤酒时出错： invalid literal for int() with base 10: ' -'
+2024-03-12 15:00:25,225 - ERROR - 处理 2020_600633_浙数文化时出错： list index out of range
+2024-03-12 15:00:49,730 - ERROR - 处理 2020_600801_华新水泥时出错： No /Root object! - Is this really a PDF?
+2024-03-12 15:01:03,842 - ERROR - 处理 2020_600901_江苏租赁时出错： invalid literal for int() with base 10: '.9'
+2024-03-12 15:01:14,812 - ERROR - 处理 2020_601107_四川成渝时出错： list index out of range
+2024-03-12 15:01:14,812 - ERROR - 处理 2020_601107_四川成渝时出错： list index out of range
+2024-03-12 15:02:13,714 - ERROR - 处理 2020_601016_节能风电时出错： bytes must be in range(0, 256)
+2024-03-12 15:02:18,527 - ERROR - 处理 2020_601899_紫金矿业时出错： No /Root object! - Is this really a PDF?
+2024-03-12 15:02:45,471 - ERROR - 处理 2020_605111_新洁能时出错： No /Root object! - Is this really a PDF?
+2024-03-12 15:03:25,415 - ERROR - 处理 2020_000582_北部湾港时出错： invalid literal for int() with base 10: ' -'
+2024-03-12 15:03:46,731 - ERROR - 处理 2020_002045_国光电器时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 15:04:42,068 - ERROR - 处理 2020_002939_长城证券时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 15:06:02,722 - ERROR - 处理 2020_600581_八一钢铁时出错： Unexpected EOF
+2024-03-12 15:06:04,785 - ERROR - 处理 2020_600581_八一钢铁时出错： list index out of range
+2024-03-12 15:06:07,145 - ERROR - 处理 2020_600712_南宁百货时出错： invalid literal for int() with base 10: '”之'
+2024-03-12 15:06:18,600 - ERROR - 处理 2020_600890_中房股份时出错： invalid literal for int() with base 10: '.9'
+2024-03-12 15:08:04,758 - ERROR - 处理 2020_002489_浙江永强时出错： invalid literal for int() with base 10: '、完'
+2024-03-12 15:10:06,951 - ERROR - 处理 2019_600463_空港股份时出错： invalid literal for int() with base 10: '签。'
+2024-03-12 15:11:17,885 - ERROR - 处理 2020_600639_浦东金桥时出错： list index out of range
+2024-03-12 15:12:01,064 - ERROR - 处理 2020_000613_大东海A时出错： invalid literal for int() with base 10: '确、'
+2024-03-12 15:14:41,403 - ERROR - 处理 2020_600467_好当家时出错： list index out of range
+2024-03-12 15:14:41,856 - ERROR - 处理 2020_600467_好当家时出错： list index out of range
+2024-03-12 15:15:14,018 - ERROR - 处理 2020_603238_诺邦股份时出错： list index out of range
+2024-03-12 15:15:14,252 - ERROR - 处理 2020_603238_诺邦股份时出错： list index out of range
+2024-03-12 15:15:52,134 - ERROR - 处理 2020_000554_泰山石油时出错： invalid literal for int() with base 10: '.8'
+2024-03-12 15:16:04,636 - ERROR - 处理 2020_000869_张  裕Ａ时出错： invalid literal for int() with base 10: '..'
+2024-03-12 15:16:10,231 - ERROR - 处理 2020_000961_中南建设时出错： invalid literal for int() with base 10: '.8'
+2024-03-12 15:18:02,484 - ERROR - 处理 2020_300169_天晟新材时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 15:18:10,845 - ERROR - 处理 2020_300252_金信诺时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 15:18:45,304 - ERROR - 处理 2020_300467_迅游科技时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 15:19:51,003 - ERROR - 处理 2020_600137_浪莎股份时出错： list index out of range
+2024-03-12 15:19:51,112 - ERROR - 处理 2020_600137_浪莎股份时出错： list index out of range
+2024-03-12 15:20:17,788 - ERROR - 处理 2020_600629_华建集团时出错： No /Root object! - Is this really a PDF?
+2024-03-12 15:20:20,492 - ERROR - 处理 2020_600629_华建集团时出错： list index out of range
+2024-03-12 15:20:23,164 - ERROR - 处理 2020_600809_山西汾酒时出错： invalid literal for int() with base 10: '.9'
+2024-03-12 15:21:28,972 - ERROR - 处理 2020_605001_威奥股份时出错： Unexpected EOF
+2024-03-12 15:21:31,176 - ERROR - 处理 2020_605001_威奥股份时出错： list index out of range
+2024-03-12 15:21:34,645 - ERROR - 处理 2020_605133_嵘泰股份时出错： invalid literal for int() with base 10: '.9'
+2024-03-12 15:21:36,786 - ERROR - 处理 2020_605338_巴比食品时出错： invalid literal for int() with base 10: '析”'
+2024-03-12 15:21:37,255 - ERROR - 处理 2020_605500_森林包装时出错： invalid literal for int() with base 10: '整，'
+2024-03-12 15:22:51,689 - ERROR - 处理 2020_000959_首钢股份时出错： No /Root object! - Is this really a PDF?
+2024-03-12 15:23:39,400 - ERROR - 处理 2020_002543_万和电气时出错： invalid literal for int() with base 10: '分析'
+2024-03-12 15:25:20,980 - ERROR - 处理 2020_600293_三峡新材时出错： list index out of range
+2024-03-12 15:25:21,558 - ERROR - 处理 2020_600293_三峡新材时出错： list index out of range
+2024-03-12 15:25:22,777 - ERROR - 处理 2020_600311_*ST荣华时出错： list index out of range
+2024-03-12 15:25:23,074 - ERROR - 处理 2020_600311_*ST荣华时出错： list index out of range
+2024-03-12 15:25:23,167 - ERROR - 处理 2020_600307_酒钢宏兴时出错： list index out of range
+2024-03-12 15:25:23,308 - ERROR - 处理 2020_600307_酒钢宏兴时出错： list index out of range
+2024-03-12 15:25:25,949 - ERROR - 处理 2020_600365_ST通葡时出错： list index out of range
+2024-03-12 15:25:29,934 - ERROR - 处理 2020_600448_华纺股份时出错： invalid literal for int() with base 10: '.9'
+2024-03-12 15:26:16,942 - ERROR - 处理 2020_601212_白银有色时出错： list index out of range
+2024-03-12 15:26:16,958 - ERROR - 处理 2020_601212_白银有色时出错： list index out of range
+2024-03-12 15:26:27,772 - ERROR - 处理 2020_603117_万林物流时出错： Unexpected EOF
+2024-03-12 15:26:29,866 - ERROR - 处理 2020_603117_万林物流时出错： list index out of range
+2024-03-12 15:26:31,351 - ERROR - 处理 2020_603195_公牛集团时出错： list index out of range
+2024-03-12 15:26:32,148 - ERROR - 处理 2020_603195_公牛集团时出错： list index out of range
+2024-03-12 15:26:47,072 - ERROR - 处理 2020_603798_康普顿时出错： Unexpected EOF
+2024-03-12 15:26:48,666 - ERROR - 处理 2020_603798_康普顿时出错： list index out of range
